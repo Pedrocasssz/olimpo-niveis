@@ -1,72 +1,71 @@
-# Níveis do indicador · gerado 2026-10-21 15:29 UTC
+# Níveis do indicador · gerado 2026-10-21 16:27 UTC
 
-## BTC · BINANCE:BTCUSDT.P 1h · preço 84.450,61 (vela 2026-10-21 15:00 UTC)
+## BTC · BINANCE:BTCUSDT.P 1h · preço 84.684,01 (vela 2026-10-21 16:00 UTC)
 Velas desde 2026-10-21 12:00 UTC vêm do Binance spot (perp em tempo real indisponível); volume perp estimado pela razão 8.083
 ATENÇÃO volume agregado incompleto, fontes com problema: binance_perp
-Var. 24h 2.27% · 7d 3.49%
+Var. 24h 2.34% · 7d 3.31%
 Níveis exibidos (como no TradingView):
-- q/mVAH: 84.051,10 (-0.47%)
-- wVAH: 83.230,00 (-1.45%)
-- pmVAH: 83.147,20 (-1.54%)
-- pwVAH: 82.932,20 (-1.80%)
-- wVAL: 81.737,60 (-3.21%)
-- q/mVAL: 80.961,60 (-4.13%)
-- pwVAL: 80.794,60 (-4.33%)
-- sVAH: 79.700,40 (-5.62%)
-- yVAH: 78.207,50 (-7.39%)
-- pmVAL: 74.936,10 (-11.27%)
-- yVAL: 61.145,00 (-27.60%)
-- sVAL: 57.751,20 (-31.62%)
-VA w: atual 81.737,60 a 83.230,00 POC 82.762,60 | anterior 80.794,60 a 82.932,20 POC 81.554,40 | preço acima da VA da atual, acima da VA da anterior | migração POC subindo | abertura dentro da VA da anterior
-VA m: atual 80.961,60 a 84.051,10 POC 83.007,30 | anterior 74.936,10 a 83.147,20 POC 77.251,90 | preço acima da VA da atual, acima da VA da anterior | migração POC subindo | abertura acima da VA da anterior
+- q/mVAH: 84.051,10 (-0.75%)
+- wVAH: 83.246,40 (-1.70%)
+- pmVAH: 83.147,20 (-1.81%)
+- pwVAH: 82.932,20 (-2.07%)
+- wVAL: 81.704,80 (-3.52%)
+- q/mVAL: 80.944,90 (-4.42%)
+- pwVAL: 80.794,60 (-4.59%)
+- sVAH: 79.700,40 (-5.88%)
+- yVAH: 78.207,50 (-7.65%)
+- pmVAL: 74.936,10 (-11.51%)
+- yVAL: 61.145,00 (-27.80%)
+- sVAL: 57.751,20 (-31.80%)
+VA w: atual 81.704,80 a 83.246,40 POC 82.762,60 | anterior 80.794,60 a 82.932,20 POC 81.554,40 | preço acima da VA da atual, acima da VA da anterior | migração POC subindo | abertura dentro da VA da anterior
+VA m: atual 80.944,90 a 84.051,10 POC 83.007,30 | anterior 74.936,10 a 83.147,20 POC 77.251,90 | preço acima da VA da atual, acima da VA da anterior | migração POC subindo | abertura acima da VA da anterior
 Amplitude diária 3d 2.17% vs mediana 90d 2.4% (comprimido=False, expandido=False)
 Fechamento diário de ontem: fechou acima de pwVAH (82.932,20)
-Confluências: q/mVAH 84.051,10; q/mVAL 80.961,60; wVAH + pmVAH 83.188,60; q/mVAL + pwVAL 80.878,10
-VA semanal anterior, últimas 48h: {'fechamentos_1h_dentro': 34, 'fechamentos_1h_acima': 14, 'fechamentos_1h_abaixo': 0, 'reentrou_na_va': False}
+Confluências: q/mVAH 84.051,10; q/mVAL 80.944,90; wVAH + pmVAH 83.196,80; q/mVAL + pwVAL 80.869,75
+VA semanal anterior, últimas 48h: {'fechamentos_1h_dentro': 33, 'fechamentos_1h_acima': 15, 'fechamentos_1h_abaixo': 0, 'reentrou_na_va': False}
 
-## ETH · BINANCE:ETHUSDT.P 1h · preço 2.502,74 (vela 2026-10-21 15:00 UTC)
+## ETH · BINANCE:ETHUSDT.P 1h · preço 2.508,93 (vela 2026-10-21 16:00 UTC)
 Velas desde 2026-10-21 12:00 UTC vêm do Binance spot (perp em tempo real indisponível); volume perp estimado pela razão 14.158
 ATENÇÃO volume agregado incompleto, fontes com problema: binance_perp
-Var. 24h 2.57% · 7d 3.03%
+Var. 24h 2.37% · 7d 2.5%
 Níveis exibidos (como no TradingView):
-- pmVAH: 2.646,49 (+5.74%)
-- q/mVAH: 2.567,70 (+2.60%)
-- pwVAH: 2.531,13 (+1.13%)
-- yVAH: 2.518,12 (+0.61%)
-- sVAH: 2.473,18 (-1.18%)
-- wVAH: 2.452,80 (-2.00%)
-- pwVAL: 2.399,55 (-4.12%)
-- wVAL: 2.382,72 (-4.80%)
-- pmVAL: 2.367,68 (-5.40%)
-- q/mVAL: 2.356,02 (-5.86%)
-- yVAL: 1.836,67 (-26.61%)
-- sVAL: 1.551,86 (-37.99%)
-VA w: atual 2.382,72 a 2.452,80 POC 2.398,32 | anterior 2.399,55 a 2.531,13 POC 2.418,17 | preço acima da VA da atual, dentro da VA da anterior | migração POC descendo | abertura dentro da VA da anterior
-VA m: atual 2.356,02 a 2.567,70 POC 2.505,87 | anterior 2.367,68 a 2.646,49 POC 2.511,49 | preço dentro da VA da atual, dentro da VA da anterior | migração POC descendo | abertura acima da VA da anterior
+- pmVAH: 2.646,49 (+5.48%)
+- q/mVAH: 2.567,16 (+2.32%)
+- pwVAH: 2.531,13 (+0.88%)
+- yVAH: 2.518,12 (+0.37%)
+- sVAH: 2.473,49 (-1.41%)
+- wVAH: 2.454,24 (-2.18%)
+- pwVAL: 2.399,55 (-4.36%)
+- wVAL: 2.382,72 (-5.03%)
+- pmVAL: 2.367,68 (-5.63%)
+- q/mVAL: 2.356,02 (-6.09%)
+- yVAL: 1.836,67 (-26.79%)
+- sVAL: 1.551,86 (-38.15%)
+VA w: atual 2.382,72 a 2.454,24 POC 2.398,32 | anterior 2.399,55 a 2.531,13 POC 2.418,17 | preço acima da VA da atual, dentro da VA da anterior | migração POC descendo | abertura dentro da VA da anterior
+VA m: atual 2.356,02 a 2.567,16 POC 2.505,87 | anterior 2.367,68 a 2.646,49 POC 2.511,49 | preço dentro da VA da atual, dentro da VA da anterior | migração POC descendo | abertura acima da VA da anterior
 Amplitude diária 3d 3.73% vs mediana 90d 3.25% (comprimido=False, expandido=False)
-Confluências: q/mVAH 2.567,70; q/mVAL 2.356,02
+Confluências: q/mVAH 2.567,16; q/mVAL 2.356,02
 VA semanal anterior, últimas 48h: {'fechamentos_1h_dentro': 37, 'fechamentos_1h_acima': 0, 'fechamentos_1h_abaixo': 11, 'reentrou_na_va': True}
 
-## SOL · BINANCE:SOLUSDT.P 1h · preço 108,43 (vela 2026-10-21 15:00 UTC)
+## SOL · BINANCE:SOLUSDT.P 1h · preço 108,42 (vela 2026-10-21 16:00 UTC)
 Velas desde 2026-10-21 12:00 UTC vêm do Binance spot (perp em tempo real indisponível); volume perp estimado pela razão 8.018
 ATENÇÃO volume agregado incompleto, fontes com problema: binance_perp
-Var. 24h 2.48% · 7d 4.44%
+Var. 24h 1.85% · 7d 3.33%
 Níveis exibidos (como no TradingView):
-- q/mVAH: 115,46 (+6.48%)
-- pmVAH: 115,32 (+6.35%)
-- pwVAH: 107,02 (-1.30%)
-- wVAH: 106,46 (-1.82%)
-- sVAH: 104,80 (-3.35%)
-- wVAL: 103,84 (-4.23%)
-- yVAH: 101,88 (-6.04%)
-- pwVAL: 101,78 (-6.13%)
-- q/mVAL: 100,42 (-7.39%)
-- pmVAL: 96,06 (-11.41%)
+- q/mVAH: 115,38 (+6.42%)
+- pmVAH: 115,32 (+6.36%)
+- pwVAH: 107,02 (-1.29%)
+- wVAH: 106,52 (-1.75%)
+- sVAH: 104,82 (-3.32%)
+- wVAL: 103,84 (-4.22%)
+- yVAH: 101,90 (-6.01%)
+- pwVAL: 101,78 (-6.12%)
+- q/mVAL: 100,42 (-7.38%)
+- pmVAL: 96,06 (-11.40%)
 - sVAL: 71,54 (-34.02%)
-- yVAL: 70,30 (-35.17%)
-VA w: atual 103,84 a 106,46 POC 105,19 | anterior 101,78 a 107,02 POC 103,93 | preço acima da VA da atual, acima da VA da anterior | migração POC subindo | abertura dentro da VA da anterior
-VA m: atual 100,42 a 115,46 POC 104,03 | anterior 96,06 a 115,32 POC 101,65 | preço dentro da VA da atual, dentro da VA da anterior | migração POC subindo | abertura acima da VA da anterior
+- yVAL: 70,30 (-35.16%)
+VA w: atual 103,84 a 106,52 POC 105,19 | anterior 101,78 a 107,02 POC 103,93 | preço acima da VA da atual, acima da VA da anterior | migração POC subindo | abertura dentro da VA da anterior
+VA m: atual 100,42 a 115,38 POC 104,03 | anterior 96,06 a 115,32 POC 101,65 | preço dentro da VA da atual, dentro da VA da anterior | migração POC subindo | abertura acima da VA da anterior
 Amplitude diária 3d 3.74% vs mediana 90d 3.91% (comprimido=False, expandido=False)
-Fechamento diário de ontem: fechou acima de wVAH (106,46)
-Confluências: q/mVAH 115,46; q/mVAL 100,42; q/mVAH + pmVAH 115,39; yVAH + pwVAL 101,83
-VA semanal anterior, últimas 48h: {'fechamentos_1h_dentro': 45, 'fechamentos_1h_acima': 3, 'fechamentos_1h_abaixo': 0, 'reentrou_na_va': False}
+Confluências: q/mVAH 115,38; q/mVAL 100,42; q/mVAH + pmVAH 115,35; yVAH + pwVAL 101,84
+VA semanal anterior, últimas 48h: {'fechamentos_1h_dentro': 44, 'fechamentos_1h_acima': 4, 'fechamentos_1h_abaixo': 0, 'reentrou_na_va': False}
