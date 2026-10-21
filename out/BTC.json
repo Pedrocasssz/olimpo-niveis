@@ -2,7 +2,7 @@
  "ativo": "BTC",
  "ticker_grafico": "BINANCE:BTCUSDT.P",
  "timeframe_grafico": "1h",
- "gerado_em": "2026-10-21T02:26:16+00:00",
+ "gerado_em": "2026-10-21T03:26:27+00:00",
  "fontes_volume": [
   "binance_perp",
   "binance_spot",
@@ -12,7 +12,7 @@
  ],
  "fontes_com_problema": [],
  "substituto_perp": {
-  "velas_1h_substituidas": 27,
+  "velas_1h_substituidas": 28,
   "desde": "2026-10-20 00:00 UTC",
   "razao_volume_perp_spot": 8.203
  },
@@ -56,7 +56,7 @@
   {
    "nome": "pwVAL",
    "preco": 80794.6,
-   "distancia_pct": -2.38,
+   "distancia_pct": -2.39,
    "lado": "abaixo do preço"
   },
   {
@@ -80,7 +80,7 @@
   {
    "nome": "yVAL",
    "preco": 61145.0,
-   "distancia_pct": -26.12,
+   "distancia_pct": -26.13,
    "lado": "abaixo do preço"
   },
   {
@@ -91,10 +91,10 @@
   }
  ],
  "contexto": {
-  "preco": 82767.89,
-  "vela_atual_1h": "2026-10-21 02:00 UTC",
-  "var_24h_pct": 1.19,
-  "var_7d_pct": -1.01,
+  "preco": 82769.83,
+  "vela_atual_1h": "2026-10-21 03:00 UTC",
+  "var_24h_pct": 0.77,
+  "var_7d_pct": -1.07,
   "nivel_acima_mais_proximo": {
    "nome": "pwVAH",
    "preco": 82932.2,
@@ -110,10 +110,10 @@
   "value_areas": {
    "d": {
     "atual": {
-     "VAH": 83232.4,
-     "VAL": 82900.4,
-     "POC": 83141.1,
-     "posicao_preco": "abaixo da VA"
+     "VAH": 83049.8,
+     "VAL": 82734.4,
+     "POC": 82825.7,
+     "posicao_preco": "dentro da VA"
     },
     "anterior": {
      "VAH": 82738.0,
@@ -125,7 +125,7 @@
     "row_size": 16.6,
     "inicio": "2026-10-21 00:00 UTC",
     "migracao_poc": "subindo",
-    "sobreposicao_com_anterior_pct": 0.0,
+    "sobreposicao_com_anterior_pct": 0.3,
     "abertura_periodo": 83028.14,
     "abertura_vs_va_anterior": "acima da VA"
    },
@@ -297,9 +297,9 @@
  },
  "perfis": {
   "d": {
-   "VAH": 83232.4,
-   "VAL": 82900.4,
-   "POC": 83141.1,
+   "VAH": 83049.8,
+   "VAL": 82734.4,
+   "POC": 82825.7,
    "pVAH": 82738.0,
    "pVAL": 81327.6,
    "pPOC": 81483.4,
@@ -1320,9 +1320,9 @@
    "data": "2026-10-21",
    "o": 83028.14,
    "h": 83225.0,
-   "l": 82732.63,
-   "c": 82767.89,
-   "v": 9439.7
+   "l": 82728.8,
+   "c": 82769.83,
+   "v": 11485.66
   }
  ],
  "velas_semanais": [
@@ -1534,7 +1534,7 @@
    "o": 82077.9,
    "h": 83439.0,
    "l": 81200.0,
-   "c": 82767.89
+   "c": 82769.83
   }
  ]
 }
