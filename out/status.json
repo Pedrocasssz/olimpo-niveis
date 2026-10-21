@@ -1,12 +1,12 @@
 {
- "atualizado_em": "2026-10-21T09:28:19+00:00",
+ "atualizado_em": "2026-10-21T10:28:37+00:00",
  "fontes": {
   "BTC/binance_spot_1h": {
    "ok": true,
    "via": "https://data-api.binance.vision",
    "linhas_novas": 5,
-   "ultimo_candle": 1792573200000,
-   "segundos": 0.6
+   "ultimo_candle": 1792576800000,
+   "segundos": 0.7
   },
   "BTC/binance_perp_1h": {
    "ok": true,
@@ -19,21 +19,21 @@
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1792573200000,
+   "ultimo_candle": 1792576800000,
    "segundos": 0.2
   },
   "BTC/okx_perp_1h": {
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1792573200000,
-   "segundos": 0.2
+   "ultimo_candle": 1792576800000,
+   "segundos": 0.1
   },
   "BTC/coinbase_spot_1h": {
    "ok": true,
    "via": "https://api.exchange.coinbase.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1792573200000,
+   "ultimo_candle": 1792576800000,
    "segundos": 0.3
   },
   "BTC/binance_perp_5m": {
@@ -41,41 +41,41 @@
    "via": "data.binance.vision (REST falhou: https://fapi.binance.com/fapi/v1/klines: HTTP 451)",
    "linhas_novas": 4,
    "ultimo_candle": 1792454100000,
-   "segundos": 0.6
+   "segundos": 0.3
   },
   "BTC/binance_spot_5m": {
    "ok": true,
    "via": "https://data-api.binance.vision",
-   "linhas_novas": 15,
-   "ultimo_candle": 1792574700000,
-   "segundos": 0.6
+   "linhas_novas": 16,
+   "ultimo_candle": 1792578300000,
+   "segundos": 0.4
   },
   "ETH/binance_spot_1h": {
    "ok": true,
    "via": "https://data-api.binance.vision",
    "linhas_novas": 5,
-   "ultimo_candle": 1792573200000,
-   "segundos": 0.6
+   "ultimo_candle": 1792576800000,
+   "segundos": 0.5
   },
   "ETH/binance_perp_1h": {
    "ok": true,
    "via": "data.binance.vision (REST falhou: https://fapi.binance.com/fapi/v1/klines: HTTP 451)",
    "linhas_novas": 4,
    "ultimo_candle": 1792450800000,
-   "segundos": 0.7
+   "segundos": 0.6
   },
   "ETH/okx_spot_1h": {
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1792573200000,
+   "ultimo_candle": 1792576800000,
    "segundos": 0.2
   },
   "ETH/okx_perp_1h": {
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1792573200000,
+   "ultimo_candle": 1792576800000,
    "segundos": 0.2
   },
   "ETH/binance_perp_5m": {
@@ -83,21 +83,21 @@
    "via": "data.binance.vision (REST falhou: https://fapi.binance.com/fapi/v1/klines: HTTP 451)",
    "linhas_novas": 4,
    "ultimo_candle": 1792454100000,
-   "segundos": 0.5
+   "segundos": 0.8
   },
   "ETH/binance_spot_5m": {
    "ok": true,
    "via": "https://data-api.binance.vision",
-   "linhas_novas": 15,
-   "ultimo_candle": 1792574700000,
-   "segundos": 0.6
+   "linhas_novas": 16,
+   "ultimo_candle": 1792578300000,
+   "segundos": 0.5
   },
   "SOL/binance_spot_1h": {
    "ok": true,
    "via": "https://data-api.binance.vision",
    "linhas_novas": 5,
-   "ultimo_candle": 1792573200000,
-   "segundos": 0.6
+   "ultimo_candle": 1792576800000,
+   "segundos": 0.4
   },
   "SOL/binance_perp_1h": {
    "ok": true,
@@ -110,14 +110,14 @@
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1792573200000,
-   "segundos": 0.2
+   "ultimo_candle": 1792576800000,
+   "segundos": 0.1
   },
   "SOL/okx_perp_1h": {
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1792573200000,
+   "ultimo_candle": 1792576800000,
    "segundos": 0.2
   },
   "SOL/binance_perp_5m": {
@@ -125,14 +125,14 @@
    "via": "data.binance.vision (REST falhou: https://fapi.binance.com/fapi/v1/klines: HTTP 451)",
    "linhas_novas": 4,
    "ultimo_candle": 1792454100000,
-   "segundos": 0.8
+   "segundos": 1.1
   },
   "SOL/binance_spot_5m": {
    "ok": true,
    "via": "https://data-api.binance.vision",
-   "linhas_novas": 15,
-   "ultimo_candle": 1792574700000,
-   "segundos": 0.6
+   "linhas_novas": 16,
+   "ultimo_candle": 1792578300000,
+   "segundos": 0.5
   }
  }
 }
