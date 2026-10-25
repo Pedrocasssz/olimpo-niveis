@@ -2,7 +2,7 @@
  "ativo": "SOL",
  "ticker_grafico": "BINANCE:SOLUSDT.P",
  "timeframe_grafico": "1h",
- "gerado_em": "2026-10-25T15:22:14+00:00",
+ "gerado_em": "2026-10-25T16:22:44+00:00",
  "fontes_volume": [
   "binance_perp",
   "binance_spot",
@@ -11,7 +11,7 @@
  ],
  "fontes_com_problema": [],
  "substituto_perp": {
-  "velas_1h_substituidas": 16,
+  "velas_1h_substituidas": 17,
   "desde": "2026-10-25 00:00 UTC",
   "razao_volume_perp_spot": 7.565
  },
@@ -30,8 +30,8 @@
   },
   {
    "nome": "wVAH",
-   "preco": 107.6,
-   "distancia_pct": 6.08,
+   "preco": 107.64,
+   "distancia_pct": 6.12,
    "lado": "acima do preço"
   },
   {
@@ -91,9 +91,9 @@
  ],
  "contexto": {
   "preco": 101.43,
-  "vela_atual_1h": "2026-10-25 15:00 UTC",
-  "var_24h_pct": 1.71,
-  "var_7d_pct": -0.72,
+  "vela_atual_1h": "2026-10-25 16:00 UTC",
+  "var_24h_pct": 1.0,
+  "var_7d_pct": -0.59,
   "nivel_acima_mais_proximo": {
    "nome": "pwVAL",
    "preco": 101.78,
@@ -109,8 +109,8 @@
   "value_areas": {
    "d": {
     "atual": {
-     "VAH": 101.92,
-     "VAL": 100.6,
+     "VAH": 101.88,
+     "VAL": 100.62,
      "POC": 100.73,
      "posicao_preco": "dentro da VA"
     },
@@ -124,13 +124,13 @@
     "row_size": 0.02,
     "inicio": "2026-10-25 00:00 UTC",
     "migracao_poc": "descendo",
-    "sobreposicao_com_anterior_pct": 51.2,
+    "sobreposicao_com_anterior_pct": 48.8,
     "abertura_periodo": 102.37,
     "abertura_vs_va_anterior": "dentro da VA"
    },
    "w": {
     "atual": {
-     "VAH": 107.6,
+     "VAH": 107.64,
      "VAL": 103.36,
      "POC": 104.45,
      "posicao_preco": "abaixo da VA"
@@ -231,9 +231,9 @@
    }
   },
   "semanal_anterior_ultimas_48h": {
-   "fechamentos_1h_dentro": 24,
+   "fechamentos_1h_dentro": 23,
    "fechamentos_1h_acima": 0,
-   "fechamentos_1h_abaixo": 24,
+   "fechamentos_1h_abaixo": 25,
    "reentrou_na_va": false
   },
   "cruzamentos_fechamento_diario_ontem": [],
@@ -261,8 +261,8 @@
  },
  "perfis": {
   "d": {
-   "VAH": 101.92,
-   "VAL": 100.6,
+   "VAH": 101.88,
+   "VAL": 100.62,
    "POC": 100.73,
    "pVAH": 102.84,
    "pVAL": 100.26,
@@ -272,7 +272,7 @@
    "faixas": 121
   },
   "w": {
-   "VAH": 107.6,
+   "VAH": 107.64,
    "VAL": 103.36,
    "POC": 104.45,
    "pVAH": 107.02,
@@ -1286,7 +1286,7 @@
    "h": 102.77,
    "l": 100.37,
    "c": 101.43,
-   "v": 4202522.64
+   "v": 4583841.13
   }
  ],
  "velas_semanais": [
