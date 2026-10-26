@@ -2,113 +2,117 @@
  "ativo": "SOL",
  "ticker_grafico": "BINANCE:SOLUSDT.P",
  "timeframe_grafico": "1h",
- "gerado_em": "2026-10-26T11:34:39+00:00",
+ "gerado_em": "2026-10-26T14:36:11+00:00",
  "fontes_volume": [
   "binance_perp",
   "binance_spot",
   "okx_perp",
   "okx_spot"
  ],
- "fontes_com_problema": [],
+ "fontes_com_problema": [
+  "binance_perp"
+ ],
  "substituto_perp": {
-  "velas_1h_substituidas": 0
+  "velas_1h_substituidas": 3,
+  "desde": "2026-10-26 12:00 UTC",
+  "razao_volume_perp_spot": 7.738
  },
  "niveis_indicador": [
   {
    "nome": "pmVAH",
    "preco": 115.32,
-   "distancia_pct": 13.72,
+   "distancia_pct": 13.76,
    "lado": "acima do preço"
   },
   {
    "nome": "q/mVAH",
-   "preco": 112.2,
-   "distancia_pct": 10.64,
+   "preco": 112.14,
+   "distancia_pct": 10.62,
    "lado": "acima do preço"
   },
   {
    "nome": "pwVAH",
    "preco": 108.04,
-   "distancia_pct": 6.54,
+   "distancia_pct": 6.58,
    "lado": "acima do preço"
   },
   {
    "nome": "sVAH",
    "preco": 104.7,
-   "distancia_pct": 3.24,
+   "distancia_pct": 3.28,
    "lado": "acima do preço"
   },
   {
    "nome": "pwVAL",
    "preco": 103.34,
-   "distancia_pct": 1.9,
+   "distancia_pct": 1.94,
    "lado": "acima do preço"
   },
   {
    "nome": "yVAH",
    "preco": 102.02,
-   "distancia_pct": 0.6,
+   "distancia_pct": 0.64,
    "lado": "acima do preço"
   },
   {
    "nome": "wVAH",
-   "preco": 101.52,
-   "distancia_pct": 0.11,
+   "preco": 101.56,
+   "distancia_pct": 0.19,
    "lado": "acima do preço"
   },
   {
    "nome": "wVAL",
-   "preco": 100.62,
-   "distancia_pct": -0.78,
+   "preco": 100.66,
+   "distancia_pct": -0.7,
    "lado": "abaixo do preço"
   },
   {
    "nome": "q/mVAL",
    "preco": 100.34,
-   "distancia_pct": -1.06,
+   "distancia_pct": -1.02,
    "lado": "abaixo do preço"
   },
   {
    "nome": "pmVAL",
    "preco": 96.06,
-   "distancia_pct": -5.28,
+   "distancia_pct": -5.24,
    "lado": "abaixo do preço"
   },
   {
    "nome": "sVAL",
    "preco": 71.54,
-   "distancia_pct": -29.45,
+   "distancia_pct": -29.43,
    "lado": "abaixo do preço"
   },
   {
    "nome": "yVAL",
    "preco": 70.3,
-   "distancia_pct": -30.68,
+   "distancia_pct": -30.65,
    "lado": "abaixo do preço"
   }
  ],
  "contexto": {
-  "preco": 101.41,
-  "vela_atual_1h": "2026-10-26 11:00 UTC",
-  "var_24h_pct": 0.16,
-  "var_7d_pct": -3.09,
+  "preco": 101.37,
+  "vela_atual_1h": "2026-10-26 14:00 UTC",
+  "var_24h_pct": 0.03,
+  "var_7d_pct": -3.14,
   "nivel_acima_mais_proximo": {
    "nome": "wVAH",
-   "preco": 101.52,
-   "distancia_pct": 0.11,
+   "preco": 101.56,
+   "distancia_pct": 0.19,
    "lado": "acima do preço"
   },
   "nivel_abaixo_mais_proximo": {
    "nome": "wVAL",
-   "preco": 100.62,
-   "distancia_pct": -0.78,
+   "preco": 100.66,
+   "distancia_pct": -0.7,
    "lado": "abaixo do preço"
   },
   "value_areas": {
    "d": {
     "atual": {
-     "VAH": 101.52,
-     "VAL": 100.62,
+     "VAH": 101.56,
+     "VAL": 100.66,
      "POC": 101.35,
      "posicao_preco": "dentro da VA"
     },
@@ -128,8 +132,8 @@
    },
    "w": {
     "atual": {
-     "VAH": 101.52,
-     "VAL": 100.62,
+     "VAH": 101.56,
+     "VAL": 100.66,
      "POC": 101.35,
      "posicao_preco": "dentro da VA"
     },
@@ -149,7 +153,7 @@
    },
    "m": {
     "atual": {
-     "VAH": 112.2,
+     "VAH": 112.14,
      "VAL": 100.34,
      "POC": 104.37,
      "posicao_preco": "dentro da VA"
@@ -164,13 +168,13 @@
     "row_size": 0.02,
     "inicio": "2026-10-01 00:00 UTC",
     "migracao_poc": "subindo",
-    "sobreposicao_com_anterior_pct": 61.6,
+    "sobreposicao_com_anterior_pct": 61.3,
     "abertura_periodo": 118.05,
     "abertura_vs_va_anterior": "acima da VA"
    },
    "q": {
     "atual": {
-     "VAH": 112.2,
+     "VAH": 112.14,
      "VAL": 100.34,
      "POC": 104.37,
      "posicao_preco": "dentro da VA"
@@ -242,7 +246,7 @@
    },
    {
     "nivel": "wVAH",
-    "preco": 101.52,
+    "preco": 101.56,
     "sentido": "fechou abaixo"
    }
   ],
@@ -256,43 +260,43 @@
   "confluencias": [
    {
     "nome": "q/mVAH",
-    "preco": 112.2,
-    "distancia_pct": 10.64,
+    "preco": 112.14,
+    "distancia_pct": 10.62,
     "lado": "acima do preço"
    },
    {
     "nome": "q/mVAL",
     "preco": 100.34,
-    "distancia_pct": -1.06,
+    "distancia_pct": -1.02,
     "lado": "abaixo do preço"
    }
   ]
  },
  "perfis": {
   "d": {
-   "VAH": 101.52,
-   "VAL": 100.62,
+   "VAH": 101.56,
+   "VAL": 100.66,
    "POC": 101.35,
    "pVAH": 101.78,
    "pVAL": 100.62,
    "pPOC": 100.91,
    "completo": true,
    "row_size": 0.02,
-   "faixas": 98
+   "faixas": 112
   },
   "w": {
-   "VAH": 101.52,
-   "VAL": 100.62,
+   "VAH": 101.56,
+   "VAL": 100.66,
    "POC": 101.35,
    "pVAH": 108.04,
    "pVAL": 103.34,
    "pPOC": 104.45,
    "completo": true,
    "row_size": 0.02,
-   "faixas": 98
+   "faixas": 112
   },
   "m": {
-   "VAH": 112.2,
+   "VAH": 112.14,
    "VAL": 100.34,
    "POC": 104.37,
    "pVAH": 115.32,
@@ -303,7 +307,7 @@
    "faixas": 1264
   },
   "q": {
-   "VAH": 112.2,
+   "VAH": 112.14,
    "VAL": 100.34,
    "POC": 104.37,
    "pVAH": 102.08,
@@ -1292,10 +1296,10 @@
   {
    "data": "2026-10-26",
    "o": 101.33,
-   "h": 101.74,
+   "h": 102.01,
    "l": 99.81,
-   "c": 101.41,
-   "v": 6171579.33
+   "c": 101.37,
+   "v": 7820931.03
   }
  ],
  "velas_semanais": [
@@ -1505,9 +1509,9 @@
   {
    "inicio": "2026-10-26",
    "o": 101.33,
-   "h": 101.74,
+   "h": 102.01,
    "l": 99.81,
-   "c": 101.41
+   "c": 101.37
   }
  ]
 }
