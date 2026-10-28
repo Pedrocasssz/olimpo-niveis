@@ -1,40 +1,40 @@
 {
- "atualizado_em": "2026-10-28T02:39:29+00:00",
+ "atualizado_em": "2026-10-28T03:36:56+00:00",
  "fontes": {
   "BTC/binance_spot_1h": {
    "ok": true,
    "via": "https://data-api.binance.vision",
    "linhas_novas": 5,
-   "ultimo_candle": 1793152800000,
-   "segundos": 0.9
+   "ultimo_candle": 1793156400000,
+   "segundos": 0.5
   },
   "BTC/binance_perp_1h": {
    "ok": true,
    "via": "data.binance.vision (REST falhou: https://fapi.binance.com/fapi/v1/klines: HTTP 451)",
    "linhas_novas": 4,
    "ultimo_candle": 1793055600000,
-   "segundos": 0.5
+   "segundos": 1.1
   },
   "BTC/okx_spot_1h": {
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1793152800000,
+   "ultimo_candle": 1793156400000,
    "segundos": 0.2
   },
   "BTC/okx_perp_1h": {
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1793152800000,
-   "segundos": 0.2
+   "ultimo_candle": 1793156400000,
+   "segundos": 0.1
   },
   "BTC/coinbase_spot_1h": {
    "ok": true,
    "via": "https://api.exchange.coinbase.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1793152800000,
-   "segundos": 0.4
+   "ultimo_candle": 1793156400000,
+   "segundos": 0.5
   },
   "BTC/binance_perp_5m": {
    "ok": true,
@@ -46,93 +46,93 @@
   "BTC/binance_spot_5m": {
    "ok": true,
    "via": "https://data-api.binance.vision",
-   "linhas_novas": 14,
-   "ultimo_candle": 1793154900000,
-   "segundos": 0.6
+   "linhas_novas": 16,
+   "ultimo_candle": 1793158500000,
+   "segundos": 0.4
   },
   "ETH/binance_spot_1h": {
    "ok": true,
    "via": "https://data-api.binance.vision",
    "linhas_novas": 5,
-   "ultimo_candle": 1793152800000,
-   "segundos": 0.6
+   "ultimo_candle": 1793156400000,
+   "segundos": 0.4
   },
   "ETH/binance_perp_1h": {
    "ok": true,
    "via": "data.binance.vision (REST falhou: https://fapi.binance.com/fapi/v1/klines: HTTP 451)",
    "linhas_novas": 4,
    "ultimo_candle": 1793055600000,
-   "segundos": 0.9
+   "segundos": 1.0
   },
   "ETH/okx_spot_1h": {
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1793152800000,
-   "segundos": 0.2
+   "ultimo_candle": 1793156400000,
+   "segundos": 0.1
   },
   "ETH/okx_perp_1h": {
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1793152800000,
-   "segundos": 0.2
+   "ultimo_candle": 1793156400000,
+   "segundos": 0.1
   },
   "ETH/binance_perp_5m": {
    "ok": true,
    "via": "data.binance.vision (REST falhou: https://fapi.binance.com/fapi/v1/klines: HTTP 451)",
    "linhas_novas": 4,
    "ultimo_candle": 1793058900000,
-   "segundos": 0.3
+   "segundos": 0.8
   },
   "ETH/binance_spot_5m": {
    "ok": true,
    "via": "https://data-api.binance.vision",
-   "linhas_novas": 14,
-   "ultimo_candle": 1793154900000,
-   "segundos": 0.6
+   "linhas_novas": 16,
+   "ultimo_candle": 1793158500000,
+   "segundos": 0.8
   },
   "SOL/binance_spot_1h": {
    "ok": true,
    "via": "https://data-api.binance.vision",
    "linhas_novas": 5,
-   "ultimo_candle": 1793152800000,
-   "segundos": 0.6
+   "ultimo_candle": 1793156400000,
+   "segundos": 0.4
   },
   "SOL/binance_perp_1h": {
    "ok": true,
    "via": "data.binance.vision (REST falhou: https://fapi.binance.com/fapi/v1/klines: HTTP 451)",
    "linhas_novas": 4,
    "ultimo_candle": 1793055600000,
-   "segundos": 0.4
+   "segundos": 0.7
   },
   "SOL/okx_spot_1h": {
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1793152800000,
-   "segundos": 0.2
+   "ultimo_candle": 1793156400000,
+   "segundos": 0.1
   },
   "SOL/okx_perp_1h": {
    "ok": true,
    "via": "https://www.okx.com",
    "linhas_novas": 5,
-   "ultimo_candle": 1793152800000,
-   "segundos": 0.2
+   "ultimo_candle": 1793156400000,
+   "segundos": 0.1
   },
   "SOL/binance_perp_5m": {
    "ok": true,
    "via": "data.binance.vision (REST falhou: https://fapi.binance.com/fapi/v1/klines: HTTP 451)",
    "linhas_novas": 4,
    "ultimo_candle": 1793058900000,
-   "segundos": 0.7
+   "segundos": 0.6
   },
   "SOL/binance_spot_5m": {
    "ok": true,
    "via": "https://data-api.binance.vision",
-   "linhas_novas": 14,
-   "ultimo_candle": 1793154900000,
-   "segundos": 0.6
+   "linhas_novas": 16,
+   "ultimo_candle": 1793158500000,
+   "segundos": 0.4
   }
  }
 }
