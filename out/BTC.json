@@ -2,7 +2,7 @@
  "ativo": "BTC",
  "ticker_grafico": "BINANCE:BTCUSDT.P",
  "timeframe_grafico": "1h",
- "gerado_em": "2026-10-29T03:39:58+00:00",
+ "gerado_em": "2026-10-29T04:40:43+00:00",
  "fontes_volume": [
   "binance_perp",
   "binance_spot",
@@ -14,7 +14,7 @@
   "binance_perp"
  ],
  "substituto_perp": {
-  "velas_1h_substituidas": 1,
+  "velas_1h_substituidas": 2,
   "desde": "2026-10-29 03:00 UTC",
   "razao_volume_perp_spot": 8.174
  },
@@ -22,99 +22,99 @@
   {
    "nome": "q/mVAH",
    "preco": 83984.3,
-   "distancia_pct": 5.2,
+   "distancia_pct": 4.94,
    "lado": "acima do preço"
   },
   {
    "nome": "pwVAH",
    "preco": 83869.6,
-   "distancia_pct": 5.06,
+   "distancia_pct": 4.8,
    "lado": "acima do preço"
   },
   {
    "nome": "pmVAH",
    "preco": 83147.2,
-   "distancia_pct": 4.15,
+   "distancia_pct": 3.9,
    "lado": "acima do preço"
   },
   {
    "nome": "pwVAL",
    "preco": 81048.8,
-   "distancia_pct": 1.53,
+   "distancia_pct": 1.28,
    "lado": "acima do preço"
   },
   {
    "nome": "wVAH",
-   "preco": 80800.0,
-   "distancia_pct": 1.21,
+   "preco": 80784.0,
+   "distancia_pct": 0.95,
    "lado": "acima do preço"
   },
   {
    "nome": "q/mVAL",
    "preco": 80460.6,
-   "distancia_pct": 0.79,
+   "distancia_pct": 0.54,
    "lado": "acima do preço"
   },
   {
    "nome": "sVAH",
    "preco": 80379.0,
-   "distancia_pct": 0.69,
+   "distancia_pct": 0.44,
    "lado": "acima do preço"
   },
   {
    "nome": "wVAL",
    "preco": 79632.0,
-   "distancia_pct": -0.25,
+   "distancia_pct": -0.49,
    "lado": "abaixo do preço"
   },
   {
    "nome": "yVAH",
    "preco": 78487.5,
-   "distancia_pct": -1.68,
+   "distancia_pct": -1.92,
    "lado": "abaixo do preço"
   },
   {
    "nome": "pmVAL",
    "preco": 74936.1,
-   "distancia_pct": -6.13,
+   "distancia_pct": -6.36,
    "lado": "abaixo do preço"
   },
   {
    "nome": "yVAL",
    "preco": 61145.0,
-   "distancia_pct": -23.41,
+   "distancia_pct": -23.59,
    "lado": "abaixo do preço"
   },
   {
    "nome": "sVAL",
    "preco": 57751.2,
-   "distancia_pct": -27.66,
+   "distancia_pct": -27.84,
    "lado": "abaixo do preço"
   }
  ],
  "contexto": {
-  "preco": 79831.26,
-  "vela_atual_1h": "2026-10-29 03:00 UTC",
-  "var_24h_pct": -1.58,
-  "var_7d_pct": -3.69,
+  "preco": 80027.29,
+  "vela_atual_1h": "2026-10-29 04:00 UTC",
+  "var_24h_pct": -1.16,
+  "var_7d_pct": -3.44,
   "nivel_acima_mais_proximo": {
    "nome": "sVAH",
    "preco": 80379.0,
-   "distancia_pct": 0.69,
+   "distancia_pct": 0.44,
    "lado": "acima do preço"
   },
   "nivel_abaixo_mais_proximo": {
    "nome": "wVAL",
    "preco": 79632.0,
-   "distancia_pct": -0.25,
+   "distancia_pct": -0.49,
    "lado": "abaixo do preço"
   },
   "value_areas": {
    "d": {
     "atual": {
-     "VAH": 80359.0,
-     "VAL": 79723.3,
-     "POC": 80008.6,
+     "VAH": 80261.2,
+     "VAL": 79755.9,
+     "POC": 79959.7,
      "posicao_preco": "dentro da VA"
     },
     "anterior": {
@@ -133,7 +133,7 @@
    },
    "w": {
     "atual": {
-     "VAH": 80800.0,
+     "VAH": 80784.0,
      "VAL": 79632.0,
      "POC": 79976.0,
      "posicao_preco": "dentro da VA"
@@ -257,13 +257,13 @@
    {
     "nome": "q/mVAH",
     "preco": 83984.3,
-    "distancia_pct": 5.2,
+    "distancia_pct": 4.94,
     "lado": "acima do preço"
    },
    {
     "nome": "q/mVAL",
     "preco": 80460.6,
-    "distancia_pct": 0.79,
+    "distancia_pct": 0.54,
     "lado": "acima do preço"
    },
    {
@@ -286,9 +286,9 @@
  },
  "perfis": {
   "d": {
-   "VAH": 80359.0,
-   "VAL": 79723.3,
-   "POC": 80008.6,
+   "VAH": 80261.2,
+   "VAL": 79755.9,
+   "POC": 79959.7,
    "pVAH": 81356.4,
    "pVAL": 80627.4,
    "pPOC": 80910.9,
@@ -297,7 +297,7 @@
    "faixas": 101
   },
   "w": {
-   "VAH": 80800.0,
+   "VAH": 80784.0,
    "VAL": 79632.0,
    "POC": 79976.0,
    "pVAH": 83869.6,
@@ -1310,8 +1310,8 @@
    "o": 81308.9,
    "h": 81344.0,
    "l": 79715.0,
-   "c": 79831.26,
-   "v": 27715.57
+   "c": 80027.29,
+   "v": 31279.46
   }
  ],
  "velas_semanais": [
@@ -1523,7 +1523,7 @@
    "o": 80114.3,
    "h": 81800.0,
    "l": 79321.8,
-   "c": 79831.26
+   "c": 80027.29
   }
  ]
 }
