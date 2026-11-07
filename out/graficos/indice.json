@@ -1,0 +1,203 @@
+{
+ "gerado_em": "2026-11-07T13:45:15+00:00",
+ "graficos": [
+  {
+   "nome": "trade_BTC_1h",
+   "tipo": "trade",
+   "ativo": "BTC",
+   "descricao": "BTC no 1h, últimos 5 dias, com os níveis do indicador perto do preço",
+   "png": "out/graficos/trade_BTC_1h.png",
+   "compacto": "out/graficos/trade_BTC_1h.png",
+   "compacto_bytes": 90876
+  },
+  {
+   "nome": "trade_BTC_4h",
+   "tipo": "trade",
+   "ativo": "BTC",
+   "descricao": "BTC no 4h, últimos 30 dias, com os níveis do indicador perto do preço",
+   "png": "out/graficos/trade_BTC_4h.png",
+   "compacto": "out/graficos/trade_BTC_4h.png",
+   "compacto_bytes": 110186
+  },
+  {
+   "nome": "diario_BTC",
+   "tipo": "trade",
+   "ativo": "BTC",
+   "descricao": "BTC no diário, últimos 150 dias, com os níveis do indicador",
+   "png": "out/graficos/diario_BTC.png",
+   "compacto": "out/graficos/diario_BTC.png",
+   "compacto_bytes": 113292
+  },
+  {
+   "nome": "semanal_BTC",
+   "tipo": "trade",
+   "ativo": "BTC",
+   "descricao": "BTC no semanal desde dez/2025, com os níveis de prazo longo (trimestre, semestre, ano)",
+   "png": "out/graficos/semanal_BTC.png",
+   "compacto": "out/graficos/semanal_BTC.png",
+   "compacto_bytes": 115775
+  },
+  {
+   "nome": "mapa_semana_BTC",
+   "tipo": "mapa",
+   "ativo": "BTC",
+   "descricao": "Mapa da semana de BTC: velas diárias com as value areas da semana anterior, do mês e do trimestre",
+   "png": "out/graficos/mapa_semana_BTC.png",
+   "compacto": "out/graficos/mapa_semana_BTC.png",
+   "compacto_bytes": 75668
+  },
+  {
+   "nome": "alavancagem_BTC",
+   "tipo": "fluxo",
+   "ativo": "BTC",
+   "descricao": "Open interest somado (Binance + OKX) contra o preço de BTC em 60 dias, com funding diário anualizado",
+   "png": "out/graficos/alavancagem_BTC.png",
+   "compacto": "out/graficos/alavancagem_BTC.jpg",
+   "compacto_bytes": 113906
+  },
+  {
+   "nome": "gex_BTC",
+   "tipo": "fluxo",
+   "ativo": "BTC",
+   "descricao": "Exposição gamma das opções de BTC na Deribit por strike, com spot e nível aproximado de virada",
+   "png": "out/graficos/gex_BTC.png",
+   "compacto": "out/graficos/gex_BTC.jpg",
+   "compacto_bytes": 76977
+  },
+  {
+   "nome": "trade_ETH_1h",
+   "tipo": "trade",
+   "ativo": "ETH",
+   "descricao": "ETH no 1h, últimos 5 dias, com os níveis do indicador perto do preço",
+   "png": "out/graficos/trade_ETH_1h.png",
+   "compacto": "out/graficos/trade_ETH_1h.png",
+   "compacto_bytes": 85708
+  },
+  {
+   "nome": "trade_ETH_4h",
+   "tipo": "trade",
+   "ativo": "ETH",
+   "descricao": "ETH no 4h, últimos 30 dias, com os níveis do indicador perto do preço",
+   "png": "out/graficos/trade_ETH_4h.png",
+   "compacto": "out/graficos/trade_ETH_4h.png",
+   "compacto_bytes": 111375
+  },
+  {
+   "nome": "diario_ETH",
+   "tipo": "trade",
+   "ativo": "ETH",
+   "descricao": "ETH no diário, últimos 150 dias, com os níveis do indicador",
+   "png": "out/graficos/diario_ETH.png",
+   "compacto": "out/graficos/diario_ETH.png",
+   "compacto_bytes": 108762
+  },
+  {
+   "nome": "semanal_ETH",
+   "tipo": "trade",
+   "ativo": "ETH",
+   "descricao": "ETH no semanal desde dez/2025, com os níveis de prazo longo (trimestre, semestre, ano)",
+   "png": "out/graficos/semanal_ETH.png",
+   "compacto": "out/graficos/semanal_ETH.png",
+   "compacto_bytes": 109616
+  },
+  {
+   "nome": "mapa_semana_ETH",
+   "tipo": "mapa",
+   "ativo": "ETH",
+   "descricao": "Mapa da semana de ETH: velas diárias com as value areas da semana anterior, do mês e do trimestre",
+   "png": "out/graficos/mapa_semana_ETH.png",
+   "compacto": "out/graficos/mapa_semana_ETH.png",
+   "compacto_bytes": 73734
+  },
+  {
+   "nome": "alavancagem_ETH",
+   "tipo": "fluxo",
+   "ativo": "ETH",
+   "descricao": "Open interest somado (Binance + OKX) contra o preço de ETH em 60 dias, com funding diário anualizado",
+   "png": "out/graficos/alavancagem_ETH.png",
+   "compacto": "out/graficos/alavancagem_ETH.jpg",
+   "compacto_bytes": 102389
+  },
+  {
+   "nome": "gex_ETH",
+   "tipo": "fluxo",
+   "ativo": "ETH",
+   "descricao": "Exposição gamma das opções de ETH na Deribit por strike, com spot e nível aproximado de virada",
+   "png": "out/graficos/gex_ETH.png",
+   "compacto": "out/graficos/gex_ETH.jpg",
+   "compacto_bytes": 75736
+  },
+  {
+   "nome": "trade_SOL_1h",
+   "tipo": "trade",
+   "ativo": "SOL",
+   "descricao": "SOL no 1h, últimos 5 dias, com os níveis do indicador perto do preço",
+   "png": "out/graficos/trade_SOL_1h.png",
+   "compacto": "out/graficos/trade_SOL_1h.png",
+   "compacto_bytes": 84508
+  },
+  {
+   "nome": "trade_SOL_4h",
+   "tipo": "trade",
+   "ativo": "SOL",
+   "descricao": "SOL no 4h, últimos 30 dias, com os níveis do indicador perto do preço",
+   "png": "out/graficos/trade_SOL_4h.png",
+   "compacto": "out/graficos/trade_SOL_4h.png",
+   "compacto_bytes": 105127
+  },
+  {
+   "nome": "diario_SOL",
+   "tipo": "trade",
+   "ativo": "SOL",
+   "descricao": "SOL no diário, últimos 150 dias, com os níveis do indicador",
+   "png": "out/graficos/diario_SOL.png",
+   "compacto": "out/graficos/diario_SOL.png",
+   "compacto_bytes": 109420
+  },
+  {
+   "nome": "semanal_SOL",
+   "tipo": "trade",
+   "ativo": "SOL",
+   "descricao": "SOL no semanal desde dez/2025, com os níveis de prazo longo (trimestre, semestre, ano)",
+   "png": "out/graficos/semanal_SOL.png",
+   "compacto": "out/graficos/semanal_SOL.png",
+   "compacto_bytes": 111380
+  },
+  {
+   "nome": "mapa_semana_SOL",
+   "tipo": "mapa",
+   "ativo": "SOL",
+   "descricao": "Mapa da semana de SOL: velas diárias com as value areas da semana anterior, do mês e do trimestre",
+   "png": "out/graficos/mapa_semana_SOL.png",
+   "compacto": "out/graficos/mapa_semana_SOL.png",
+   "compacto_bytes": 76731
+  },
+  {
+   "nome": "alavancagem_SOL",
+   "tipo": "fluxo",
+   "ativo": "SOL",
+   "descricao": "Open interest somado (Binance + OKX) contra o preço de SOL em 60 dias, com funding diário anualizado",
+   "png": "out/graficos/alavancagem_SOL.png",
+   "compacto": "out/graficos/alavancagem_SOL.jpg",
+   "compacto_bytes": 104240
+  },
+  {
+   "nome": "etf_btc",
+   "tipo": "fluxo",
+   "ativo": "BTC",
+   "descricao": "Fluxo líquido diário dos ETFs spot de BTC nos EUA, com acumulado de 40 pregões",
+   "png": "out/graficos/etf_btc.png",
+   "compacto": "out/graficos/etf_btc.jpg",
+   "compacto_bytes": 95669
+  },
+  {
+   "nome": "stablecoins",
+   "tipo": "fluxo",
+   "ativo": null,
+   "descricao": "Oferta total de stablecoins em dólar nos últimos 180 dias",
+   "png": "out/graficos/stablecoins.png",
+   "compacto": "out/graficos/stablecoins.jpg",
+   "compacto_bytes": 62254
+  }
+ ]
+}
